@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+video{
+    height: 83.07vh;
+    width:  31.25vw;
+    border: 1px solid white;
+    margin: auto;
+}
